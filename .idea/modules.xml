@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AutoML.iml" filepath="$PROJECT_DIR$/.idea/AutoML.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Crud_database/.idea/Crud_database.iml" filepath="$USER_HOME$/PycharmProjects/Crud_database/.idea/Crud_database.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Python-Flask-CRUD-CSV/.idea/Python-Flask-CRUD-CSV.iml" filepath="$USER_HOME$/Desktop/Python-Flask-CRUD-CSV/.idea/Python-Flask-CRUD-CSV.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/pythonProject/.idea/pythonProject.iml" filepath="$USER_HOME$/Desktop/pythonProject/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>
